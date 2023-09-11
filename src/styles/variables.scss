@@ -1,0 +1,12 @@
+@mixin button-style1 ($color,$textColor) {
+    background-color: $color;
+    color: $textColor;
+    border: none;
+    font-weight: bold;
+    border-radius: 2px;
+    margin: 10px;
+    padding: 10px 25px;
+}
+
+
+$color1: #ff4d30;
